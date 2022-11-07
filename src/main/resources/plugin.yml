@@ -1,0 +1,8 @@
+name: MCTTS
+version: '${project.version}'
+main: me.amar.mctts.MCTTS
+api-version: 1.19
+authors: [ Amar ]
+commands:
+  ac:
+    description: adds acronym
